@@ -4,6 +4,8 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
+  font-family: 'Noto Sans', sans-serif;
 }
 
 #about {
