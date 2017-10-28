@@ -6,7 +6,14 @@ body {
   background-size: cover;
 }
 
-h1, h2, .bio {
+#me {
+  height: 150px;
+  border-radius: 25%;
+  border-style: solid;
+  border-color: gray;
+}
+
+h1, h2, #bio {
   color: white;
 }
 
