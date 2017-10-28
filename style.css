@@ -5,3 +5,15 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+h1, h2, .bio {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 18px;
+}
