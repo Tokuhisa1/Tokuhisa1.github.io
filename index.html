@@ -2,6 +2,16 @@
   <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
+
+    <link
+      rel="stylesheet"
+      href="prism-atom-dark.css"
+      type="text/css"
+      media="screen"
+    />
+
+    <script type="text/javascript" src="prism.js"></script>
+    <script type="text/javascript" src="prism.ruby.js"></script>
   </head>
 
   <body>
@@ -32,12 +42,28 @@
     </div>
 
     <div class="box">
-      Right Side
+      <pre><code class="language-ruby">def cel_2_fah()
+  print 'Enter degrees in Celsius: '
+  celsius = gets.to_i
+  fahrenheit = celsius * 9 / 5 + 32
+
+  puts &quot;\nThe temperature is &quot; + fahrenheit.to_s + ' degrees Fahrenheit.'
+end</pre></code>
     </div>
 
     <br class="clear" />
     <div class="box">
-      Left Side
+      <pre><code class="language-ruby">def get_ordinal(num)
+  if num &lt; 10 &amp;&amp; num % 10 == 1
+    return num.to_s + 'st'
+  elsif num &lt; 10 &amp;&amp; num % 10 == 2
+    return num.to_s + 'nd'
+  elsif num &lt; 10 &amp;&amp; num % 10 == 3
+    return num.to_s + 'rd'
+  else
+    return num.to_s + 'th'
+  end
+end</pre></code>
     </div>
 
     <div class="box">
@@ -61,7 +87,25 @@
     </div>
 
     <div class="box">
-      Right Side
+      <pre><code class="language-ruby">def foo_bar()
+  print 'How many items do you want to see? '
+  items = gets.to_i
+  n = 1
+
+  while n &lt;= items
+    if n % 15 == 0
+      puts &quot;\nFoobar&quot;
+    elsif n % 5 == 0
+      puts &quot;\nBar&quot;
+    elsif n % 3 == 0
+      puts &quot;\nFoo&quot;
+    else
+      puts &quot;\n&quot; + n.to_s
+    end
+
+    n += 1
+  end
+end</pre></code>
     </div>
 
     <br class="clear" />
