@@ -19,7 +19,7 @@ body {
   height: 150px;
   border-radius: 25%;
   border-style: solid;
-  border-color: gray;
+  border-color: #919191;
   margin-top: 40px;
 }
 
@@ -29,8 +29,22 @@ h1, h2, #bio {
 
 h1 {
   font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 0;
 }
 
 h2 {
   font-size: 18px;
+  margin-top: 0;
+}
+
+#grey {
+  height: 3px;
+  background-color: #919191;
+  border: none;
+  width: 50px;
+}
+
+#bio {
+  font-size: 14px;
 }
