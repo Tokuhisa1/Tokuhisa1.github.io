@@ -3,11 +3,11 @@ body {
   margin: 0;
 }
 
-li, #about, h3, h4, #icons, #contact-info {
+li, #about, h3, h4, #icons, #contact-info, #contact-link {
   text-align: center;
 }
 
-.nav-link, h1, h2, #bio, #contact-headline, #contact-info, #contact-link {
+.nav-link, h1, h2, #bio, #contact-headline, #contact-info, p a {
   color: white;
 }
 
