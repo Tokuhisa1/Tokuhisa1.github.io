@@ -32,10 +32,13 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 | Day | Deliverable | Details | Estimated Time | Invested | Actual |
 |:----|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Friday** (10/27/2017) | High-Level Portfolio Research | Visit other portfolio sites to gain inspiration and glean insights | 1 hour | 1 hour | |
-| **Saturday** (10/28/2017) | High-Level Portfolio Research (Cont.) | [(Re)Visit other portfolio sites to gain inspiration and glean insights](https://docs.google.com/spreadsheets/d/1PoT9d1-qtVmNpvOTbr5UGyme_nzAUH1LhUVhpl5N-7o/edit?usp=sharing) |  +1 hour| | |
-| | Audit Previous Assignments | | 1 hour | | |
-|  | Create Text Content for Portfolio |  | 2 hours | | |
-| **Sunday** (10/29/2017) |  | | | | |
+| **Saturday** (10/28/2017) | High-Level Portfolio Research (Cont.) | [(Re)Visit other portfolio sites to gain inspiration and glean insights](https://docs.google.com/spreadsheets/d/1PoT9d1-qtVmNpvOTbr5UGyme_nzAUH1LhUVhpl5N-7o/edit?usp=sharing) |  +1 hour| | 2 hours |
+| Firehose (Bootcamp Prep) | Industry Knowledge | Review sample data about industry  | 0.5 hours | | 1 hour |
+|  | Portfolio, Part 1 | Create top portion of portfolio site | 2 hours | | 4 hours |
+|  | Go Live | Make portfolio content available on web domain | 1 hour | | 0.5 hours|
+|  | Ruby | Create additional content for portfolio | 16 hours | 2 hours | |
+| **Sunday** (10/29/2017) | Ruby (Continued) | | | 5.5 hours | 7.5 hours |
+| Firehose (Bootcamp Prep) | Portfolio, Part 2 | Create bottom portion of portfolio site  | 2 hours | | 4.5 hours |
 | **Monday** (10/30/2017) |  | | | | |
 | **Tuesday** (10/31/2017) |  | | | | |
 | **Wednesday** (11/01/2017) | "Last Minute" Tweaks | | 3 hours | | |
