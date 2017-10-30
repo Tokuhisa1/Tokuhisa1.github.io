@@ -47,13 +47,18 @@
   celsius = gets.to_i
   fahrenheit = celsius * 9 / 5 + 32
 
-  puts &quot;\nThe temperature is &quot; + fahrenheit.to_s + ' degrees Fahrenheit.'
-end</pre></code>
+  puts "\nThe temperature is " + fahrenheit.to_s + ' degrees Fahrenheit.'
+end
+
+cel_2_fah()</pre></code>
     </div>
     <br class="clear" />
 
     <div class="box">
-      <pre><code class="language-ruby">def get_ordinal(num)
+      <pre><code class="language-ruby">puts &quot;Enter a number&quot;
+num = gets.to_i
+
+def get_ordinal(num)
   if num &lt; 10 &amp;&amp; num % 10 == 1
     return num.to_s + 'st'
   elsif num &lt; 10 &amp;&amp; num % 10 == 2
@@ -63,7 +68,9 @@ end</pre></code>
   else
     return num.to_s + 'th'
   end
-end</pre></code>
+end
+
+puts &quot;That's the &quot; + get_ordinal(num).to_s + ' item!'</pre></code>
     </div>
 
     <div class="box">
@@ -194,6 +201,21 @@ end</pre></code>
 
       <br class="clear" />
       <img src="skills.png" class="icon" />
+    </div>
+
+    <div id="contact-me">
+      <h3 id="contact-headline">Contact</h3>
+      <hr class="yellow" />
+
+      <p id="contact-info">
+        Currently entertaining new opportunities.
+        Please get in touch via email:
+      </p>
+      <p>
+        <a href="mailto:TokuhisaWinston@Outlook.com" id="contact-link">
+          TokuhisaWinston@Outlook.com
+        </a>
+      </p>
     </div>
   </body>
 </html>
