@@ -46,7 +46,7 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 |  | [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html) | Research | 2 hours | 3.5 hours | |
 | **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | | |
 |  | Weather App | Deployment | 2 hours | | |
-| | Building a Responsive Portfolio Site (Continued) | Add dynamic styling and media queries | 2 hours | | |
+| | Project 2 | Fix and style project | 4 hours | | |
 | **Wednesday** (11/01/2017) | "Last Minute" Tweaks | | 3 hours | | |
 
 ## [Notes](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html)
