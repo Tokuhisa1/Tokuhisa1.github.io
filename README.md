@@ -39,6 +39,32 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 |  | Ruby | Create additional content for portfolio | 16 hours | 2 hours | |
 | **Sunday** (10/29/2017) | Ruby (Continued) | | | 5.5 hours | 7.5 hours |
 | Firehose (Bootcamp Prep) | Portfolio, Part 2 | Create bottom portion of portfolio site  | 2 hours | | 4.5 hours |
-| **Monday** (10/30/2017) |  | | | | |
-| **Tuesday** (10/31/2017) |  | | | | |
+| **Monday** (10/30/2017) | [Planning a Web Design Portfolio](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html) | Highlight considerations for a successful portfolio | 1 hour | | 1 hour |
+| | Industry Research | Decide which stack I want to use | 1 hours | | 0.5 hours |
+|  | Project/Assignment Inventory | Look over previous assignments and pick which ones to feature | 1 hour | | 1 hour |
+|  | Portfolio Alterations | Adjust Firehose Template to reflect projects | 1 hour | | 1 hour |
+|  | [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html) | Research | 2 hours | 3.5 hours | |
+| **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | | |
+|  | Weather App | Deployment | 2 hours | | |
+| | Building a Responsive Portfolio Site (Continued) | Add dynamic styling and media queries | 2 hours | | |
 | **Wednesday** (11/01/2017) | "Last Minute" Tweaks | | 3 hours | | |
+
+## [Notes](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html)
+### Understanding Your Audience
+1. If I had to describe my dream job in 10 words or less, I would say. . .
+2. When my ideal employers are trying to engage their audience, the most important factor is. . .
+3. The greatest value I can create for my employer is. . .
+4.  Employers will choose to hire me over other developers because. . .
+5. The #1 thing I can do to communicate that is. . .
+
+### Conveying Personality
+#### **Who are You?**
+- Convey Your Strengths
+- What kind of stuff could I do all day and never get bored?
+- What do I need to experience in order to feel like a project is a success?
+- What do my clients and colleagues thank me for?
+
+#### **Where Do You Want to Go?**
+- What are your career goals?
+- What's your dream job?
+- What do you see yourself doing professionally in the near or more distant future?

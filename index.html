@@ -3,16 +3,6 @@
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
 
-    <link
-      rel="stylesheet"
-      href="styles/prism-atom-dark.css"
-      type="text/css"
-      media="screen"
-    />
-
-    <script type="text/javascript" src="scripts/prism.js"></script>
-    <script type="text/javascript" src="scripts/prism.ruby.js"></script>
-
     <title>Winston Tokuhisa</title>
     <meta name="description" content="Winston Tokuhisa is a professional software engineer specializing in full-stack development. He has extensive experience with Ruby, Rails, JavaScript and building web applications.">
   </head>
@@ -21,7 +11,6 @@
     <div id="about-container">
       <ul>
         <li><a href="#" class="nav-link">ABOUT</a></li>
-        <li><a href="#code-samples" class="nav-link">CODE SAMPLES</a></li>
         <li><a href="#web-apps" class="nav-link">WEB APPS</a></li>
         <li><a href="#skills-and-tools" class="nav-link">SKILLS &amp; TOOLS</a></li>
         <li class="hire-me"><a href="#hire-me" class="nav-link">HIRE ME</a></li>
@@ -40,73 +29,35 @@
       </div>
     </div>
 
-    <h3 id="web-apps">Web Apps</h3>
-    <hr class="yellow">
+    <div id="app-container">
+      <h3 id="web-apps">Web Apps</h3>
+      <hr class="yellow">
 
-    <div class="box">
-      <h4>Quote Generator</h4>
-      <img src="images/splurty.png" class="full-width" />
-      <p>
-          A database-powered quote generator with a mobile-first
-          design, using the Ruby on Rails framework, HTML, and CSS.
-          Uses Git and GitHub for version control, and launched
-          on Heroku.
-      </p>
-    </div>
+      <div class="box">
+        <h4>Pantry</h4>
+        <img src="images/projects/pantry.png" class="full-width" />
+        <p>
+            An application for someone trying to answer the question “What’s for dinner?”, making use of on-hand food items.
+        </p>
+      </div>
 
-    <div class="box">
-      <h4>Yelp Clone</h4>
-      <img src="images/nomster.png" class="full-width" />
-      <p>
-        A Yelp clone that integrates with the Google Maps API
-        and includes features like user comments, star ratings,
-        image uploading, and user authentication.
-      </p>
-    </div>
-    <br class="clear" />
+      <div class="box">
+        <h4>Tweedr</h4>
+        <img src="images/projects/tweedr.png" class="full-width" />
+        <p>
+          A simple application emulating a Twitter feed created using React and Express.
+        </p>
+      </div>
 
-    <div class="box">
-      <h4>Two-Sided Market Place</h4>
-      <img src="images/flixter.png" class="full-width" />
-      <p>
-        A two-sided, video-streaming marketplace platform that
-        features credit card payment capabilities, user role
-        management, complex user interfaces, and advanced
-        database relationships.
-      </p>
+      <div class="box">
+        <h4>Weather App</h4>
+        <img src="images/projects/weather.png" class="full-width" />
+        <p>
+          A basic weather app takes a users zip code and returns up-to-date information from the <a href="http://openweathermap.org/api">Open Weather Map API</a>.
+        </p>
+      </div>
+      <br class="clear" />
     </div>
-
-    <div class="box">
-      <h4>Test Driven Development</h4>
-      <img src="images/grammable.png" class="full-width" />
-      <p>
-        An Instagram clone that was built using industry-standard, test-driven
-        development following numerous red/green/refactor cycles.
-      </p>
-    </div>
-    <br class="clear" />
-
-    <div class="box">
-      <h4>Single Page Todo Application</h4>
-      <img src="images/todoster.png" class="full-width" />
-      <p>
-        This single-page to-do application features a
-        fluid user interface that – by using JavaScript –
-        allows users to rapidly add dynamic content.
-      </p>
-    </div>
-
-    <div class="box">
-      <h4>Agile Team Project</h4>
-      <img src="images/chess.png" class="full-width" />
-      <p>
-        Worked on an Agile software development team building
-        a chess application. Under the guidance of a senior software engineer,
-        we had weekly Agile team meetings for code reviews, sprint planning,
-        and feature assignments.
-      </p>
-    </div>
-    <br class="clear" />
 
     <h3 id="skills-and-tools">Skills &amp; Tools</h3>
     <hr class="yellow" />
@@ -117,11 +68,11 @@
     </p>
 
     <div id="icons">
-      <img src="images/github.png" class="icon" />
-      <img src="images/rubocop.png" class="icon" />
-      <img src="images/trello.png" class="icon" />
-      <img src="images/slack.png" class="icon" />
-      <img src="images/codeship.png" class="icon" />
+      <img src="images/tools/github.png" class="icon" />
+      <img src="images/tools/rubocop.png" class="icon" />
+      <img src="images/tools/trello.png" class="icon" />
+      <img src="images/tools/slack.png" class="icon" />
+      <img src="images/tools/codeship.png" class="icon" />
 
       <br class="clear" />
       <img src="images/skills.png" class="icon" />
@@ -135,8 +86,8 @@
         Currently entertaining new opportunities.
         Please get in touch via email:
       </p>
-      <p>
-        <a href="mailto:TokuhisaWinston@Outlook.com" id="contact-link">
+      <p id="contact-link">
+        <a href="mailto:TokuhisaWinston@Outlook.com">
           TokuhisaWinston@Outlook.com
         </a>
       </p>
