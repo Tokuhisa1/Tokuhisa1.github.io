@@ -42,10 +42,11 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 | **Monday** (10/30/2017) | [Planning a Web Design Portfolio](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html) | Highlight considerations for a successful portfolio | 1 hour | | 1 hour |
 | | Industry Research | Decide which stack I want to use | 1 hours | | 0.5 hours |
 |  | Project/Assignment Inventory | Look over previous assignments and pick which ones to feature | 1 hour | | 1 hour |
-|  | Portfolio Alterations | Adjust Firehose Template to reflect projects | 1 hour | | |
-|  | Project 2 Assessment | Begin to fix issues with database and method override | 1 hour | | |
-|  | Group Deployment | Meet with TA's and group members to deploy project | 1 hour | | |
-| **Tuesday** (10/31/2017) |  | | | | |
+|  | Portfolio Alterations | Adjust Firehose Template to reflect projects | 1 hour | | 1 hour |
+|  | [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html) | Research | 2 hours | 3.5 hours | |
+| **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | | |
+|  | Weather App | Deployment | 2 hours | | |
+| | Building a Responsive Portfolio Site (Continued) | Add dynamic styling and media queries | 2 hours | | |
 | **Wednesday** (11/01/2017) | "Last Minute" Tweaks | | 3 hours | | |
 
 ## [Notes](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html)
