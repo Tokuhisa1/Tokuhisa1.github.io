@@ -67,10 +67,11 @@ h1 {
   font-size: 50px;
   margin-bottom: 0;
 }
-
+img {
+  margin-top: 0;
+}
 h2 {
   font-size: 18px;
-  margin-top: 0;
 }
 
 #grey {
@@ -82,15 +83,6 @@ h2 {
 
 #bio {
   font-size: 14px;
-}
-
-#app-container {
-  background: url('../images/bg2.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 600px;
 }
 
 h3 {
@@ -107,17 +99,13 @@ h3 {
 
 .box {
   float: left;
-  width: 30%;
-  margin-left: 2.5%;
+  width: 25%;
+  margin-left: 5%;
   margin-top: 80px;
 }
 
 h4 {
   font-size: 24px;
-}
-
-#app-container p {
-  font-weight: bold;
 }
 
 .clear {
