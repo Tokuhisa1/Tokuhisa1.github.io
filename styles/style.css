@@ -3,12 +3,12 @@ body {
   margin: 0;
 }
 
-li, #about, h3, h4, #icons, #contact-info, #contact-link {
-  text-align: center;
+.nav-link, h1, h2, #bio, #contact-headline, #contact-info, #contact-link a {
+  color: white;
 }
 
-.nav-link, h1, h2, #bio, #contact-headline, #contact-info, p a {
-  color: white;
+li, #about, h3, h4, #icons, p {
+  text-align: center;
 }
 
 li, #contact-info {
@@ -84,6 +84,15 @@ h2 {
   font-size: 14px;
 }
 
+#app-container {
+  background: url('../images/bg2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+}
+
 h3 {
   font-size: 28px;
   margin-top: 100px;
@@ -98,13 +107,17 @@ h3 {
 
 .box {
   float: left;
-  width: 42.5%;
-  margin-left: 5%;
+  width: 30%;
+  margin-left: 2.5%;
   margin-top: 80px;
 }
 
 h4 {
   font-size: 24px;
+}
+
+#app-container p {
+  font-weight: bold;
 }
 
 .clear {
