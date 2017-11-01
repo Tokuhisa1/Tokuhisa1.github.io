@@ -47,6 +47,10 @@ li {
   margin-left: 30px;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+
 .nav-link {
   text-decoration: none;
 }
