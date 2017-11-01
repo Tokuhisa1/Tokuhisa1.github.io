@@ -44,10 +44,11 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 |  | Project/Assignment Inventory | Look over previous assignments and pick which ones to feature | 1 hour | | 1 hour |
 |  | Portfolio Alterations | Adjust Firehose Template to reflect projects | 1 hour | | 1 hour |
 |  | [Building a Responsive Portfolio Site](https://www.lynda.com/CSS-tutorials/Building-Responsive-Portfolio-Site/372808-2.html) | Research | 2 hours | 3.5 hours | |
-| **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | | |
-|  | Weather App | Deployment | 2 hours | | |
+| **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | 3 hours | |
+|  | Weather App | Deployment | 2 hours | | 4 hours |
+| | Project 2 | Fix and style project | 4 hours | 1.5 hours | |
+| **Wednesday** (11/01/2017) | Tweedr (Continued) | Fix Heroku deployment | +2 hours | | |
 | | Project 2 | Fix and style project | 4 hours | | |
-| **Wednesday** (11/01/2017) | "Last Minute" Tweaks | | 3 hours | | |
 
 ## [Notes](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html)
 ### Understanding Your Audience
