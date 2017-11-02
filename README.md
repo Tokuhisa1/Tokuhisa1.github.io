@@ -47,8 +47,12 @@ I intend to make a [#knockout](http://99u.com/articles/7127/6-steps-to-creating-
 | **Tuesday** (10/31/2017) |  Tweedr | Deployment | 2 hours | 3 hours | |
 |  | Weather App | Deployment | 2 hours | | 4 hours |
 | | Project 2 | Fix and style project | 4 hours | 1.5 hours | |
-| **Wednesday** (11/01/2017) | Tweedr (Continued) | Fix Heroku deployment | +2 hours | | |
-| | Project 2 (Continued) | Fix and style project |  | | |
+| **Wednesday** (11/01/2017) | Tweedr (Continued) | Fix Heroku deployment | +2 hours | | 1 hour |
+| | Project 2 | Fix update and delete functionality | 2 hours | | 1 hour |
+| | Portfolio Restoration | Bring lost changes into Master | 0.5 hours | | 1 hour |
+| | Portfolio Inventory | Find (2) additional projects to feature | 1 hour | | 2 hours |
+| | Portfolio Expansion | Styling and deploying homework | 2 hours | | 3 hours |
+| | Project 2 | Deploy and style | 4 hours | 1.5 hours |  |
 
 ## [Notes](https://www.lynda.com/Web-Design-tutorials/Planning-Web-Design-Portfolio-Getting-Job/172854-2.html)
 ### Understanding Your Audience
